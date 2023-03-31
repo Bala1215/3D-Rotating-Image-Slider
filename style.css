@@ -42,10 +42,10 @@ img{
     width:100%;
     position: absolute;
     transform-style: preserve-3d;
-    animation: rotate 20s linear infinite;
+    animation: rotate1 20s linear infinite;
 }
 
-@keyframes rotate{
+@keyframes rotate1{
 	from{
 
 	}
